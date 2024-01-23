@@ -9,8 +9,9 @@ public class Main {
         char[] c={'a','b','c','d','e','f'};
         printint(a);
         printchararray ch=new printchararray();
+        System.out.println();
         ch.printchar(c);
-
-        printfloat(f);
+        System.out.println();
+        printFloatarray.printfloat(f);
     }
 }

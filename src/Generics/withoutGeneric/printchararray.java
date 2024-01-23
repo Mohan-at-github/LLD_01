@@ -5,7 +5,7 @@ public class printchararray {
     {
         for(char i:arr)
         {
-            System.out.println(i);
+            System.out.print(i);
         }
     }
 }
